@@ -21,7 +21,7 @@ body {
 svg {
 	
 	background-color: blue;
-	border: 10px solid red;
+	border: 10px dashed red;
 }
 .raz {
 	border: 2px solid red;
