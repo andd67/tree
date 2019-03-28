@@ -23,6 +23,10 @@ svg {
 	background-color: blue;
 	border: 2px solid red;
 }
+.empty {
+	min-height: 30px;
+	background-color: black;
+}
 .raz {
 	border: 2px solid red;
 }
