@@ -25,7 +25,7 @@ svg {
 }
 .empty {
 	min-height: 30px;
-	background-color: black;
+	background-color: yellow;
 }
 .raz {
 	border: 2px solid red;
