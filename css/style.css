@@ -17,6 +17,7 @@ body {
     margin: 0 auto;
 	border: 2px solid green;
 	text-align: center;
+	background-color: rgba(143, 16, 16, 0.5);
 }
 svg {
 	
